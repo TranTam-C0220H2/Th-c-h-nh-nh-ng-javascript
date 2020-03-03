@@ -1,0 +1,3 @@
+function codeGym() {
+    alert('Gym')
+}
